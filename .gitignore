@@ -2,9 +2,7 @@
 *.pdb
 *.xml
 *.targets
-*.config
 *.exe
 *.cache
 *.txt
-*.config
 /demo/.vs
