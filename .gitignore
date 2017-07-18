@@ -7,4 +7,4 @@
 *.cache
 *.txt
 *.config
-demo/.vs/demo/v14/.suo
+/demo/.vs
