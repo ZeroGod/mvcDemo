@@ -2,3 +2,11 @@
 demo/.vs/config/applicationhost.config
 demo/demo/bin/Microsoft.AI.Agent.Intercept.dll
 *.dll
+*.pdb
+*.xml
+*.targets
+*.config
+*.exe
+*.cache
+*.txt
+*.config
