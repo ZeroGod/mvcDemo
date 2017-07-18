@@ -1,0 +1,4 @@
+
+demo/.vs/config/applicationhost.config
+demo/demo/bin/Microsoft.AI.Agent.Intercept.dll
+*.dll
