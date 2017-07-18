@@ -1,6 +1,3 @@
-
-demo/.vs/config/applicationhost.config
-demo/demo/bin/Microsoft.AI.Agent.Intercept.dll
 *.dll
 *.pdb
 *.xml
@@ -10,3 +7,4 @@ demo/demo/bin/Microsoft.AI.Agent.Intercept.dll
 *.cache
 *.txt
 *.config
+demo/.vs/demo/v14/.suo
