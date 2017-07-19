@@ -5,7 +5,7 @@
     <div class="ft14 jf_help_info">
       <ul>
         <li>asp.net MVC  Demo</li>
-        <li>NET版本：4.6.2</li>
+        <li>NET版本：4.5</li>
       </ul>
     </div>
   </div>
