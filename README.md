@@ -5,7 +5,8 @@
     <div class="ft14 jf_help_info">
       <ul>
         <li>asp.net MVC  Demo</li>
-        <li>NET版本：4.5</li>
+        <li>控制器————视图分离测试</li>
+         <li>log4jnet测试</li>
       </ul>
     </div>
   </div>
